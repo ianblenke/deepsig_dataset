@@ -8,7 +8,7 @@ DeepSig has created a small corpus of standard datasets which can be used for or
 
 These datasets allow machine learning researchers with new ideas to dive directly into an important technical area without the need for collecting or generating new datasets, and allows for direct comparison to efficacy of prior work.
 
-Please reference the above page or our relevant academic papers when using these datasets.
+Please reference the above page or relevant academic papers when using these datasets.
 
 ## LICENSE NOTICE
 
