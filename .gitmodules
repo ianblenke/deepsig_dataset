@@ -1,0 +1,9 @@
+[submodule "dockerRML"]
+	path = dockerRML
+	url = https://github.com/sofwerx/dockerRML
+[submodule "radioML_dataset"]
+	path = radioML_dataset
+	url = https://github.com/sofwerx/radioML_dataset
+[submodule "radioML_examples"]
+	path = radioML_examples
+	url = https://github.com/sofwerx/radioML_examples
