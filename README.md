@@ -25,6 +25,10 @@ This represents a cleaner and more normalized version of the 2016.04C dataset, w
 - Larger Version (including AM-SSB): [RML2016.10b.tar.bz2](http://opendata.deepsig.io/datasets/2016.10/RML2016.10b.tar.bz2)
 - Example ClassifierJupyter Notebook: [RML2016.10a_VTCNN2_example.ipynb](https://github.com/radioML/examples/blob/master/modulation_recognition/RML2016.10a_VTCNN2_example.ipynb)
 
+Note: That example ClassifierJupyter notebook requires [some fixes](https://github.com/chickenjohn/examples/commit/488bbe15c710e0c2520a24b23c3903bf301141a0) from a fork to run successfully. Those are merged here:
+
+- [sofwerx/radioML_examples](https://github.com/sofwerx/radioML_examples)
+
 ## DEEPSIG DATASET: RADIOML 2016.04C
 
 A synthetic dataset, generated with GNU Radio, consisting of 11 modulations. This is a variable-SNR dataset with moderate LO drift, light fading, and numerous different labeled SNR increments for use in measuring performance across different signal and noise power scenarios.
